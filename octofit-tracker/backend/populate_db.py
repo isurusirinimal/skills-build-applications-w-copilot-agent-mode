@@ -1,3 +1,6 @@
+# Ensure Django is installed in the environment
+# You can install it using: pip install django
+
 import os
 import django
 
